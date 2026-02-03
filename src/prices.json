@@ -1,0 +1,12 @@
+{
+    "size": {
+        "small": 1,
+        "medium": 1.50,
+        "large": 2
+    },
+    "creamer": {
+        "none": 0,
+        "dairy": 0.25,
+        "non-dairy": 0.50
+    }
+}
